@@ -1,5 +1,4 @@
 
-
 const middle = function(array) {
   let middle = [];
   let arrayLength = array.length;

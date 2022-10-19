@@ -1,5 +1,4 @@
 
-
 const without = function(sourceArray, itemsToRemoveArray) {
   let newItems = [];
   for (let i = 0; i < sourceArray.length; i++) {

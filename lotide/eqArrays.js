@@ -1,5 +1,4 @@
 
-
 const eqArrays = function(first, second) {
   let flag = true;
   if (first.length !== second.length) {
